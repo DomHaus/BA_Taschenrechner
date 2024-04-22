@@ -17,6 +17,9 @@ In der vorbereiteten Datei `taschenrechner.py` finden Sie einige vordefinierte F
 und in der `main()` Funktion zu einem sinnvollen Programm zusammenfügen. Ich empfehle Ihnen, zuerst die einzelnen Funktionen zu programmieren 
 und danach die `main()` - dies ist jedoch völlig Ihnen überlassen. 
 
+Zum ausführen der Anwedung können Sie einfach den grünen `Run`Button in Replit verwenden.
+Um Ihre Datei zu testen, können Sie in der `shell` folgenden Befehl nutzen: `pytest`.
+
 ### Funktionen addieren( ), subtrahieren( ), multiplizieren( ) und dividieren( )
 Die Funktionen `addieren()`, `subtrahieren()`, `multiplizieren()` und `dividieren()` sollen Zwei Zahlen entgegennehmen und das
 jeweilige Ergebnis mittels `return` an die `main()`Funktion zurückgeben.
