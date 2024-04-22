@@ -13,6 +13,8 @@ Falls Sie noch keine Erfahrungen damit haben, stellen Sie Ihre Fragen an ChatGPT
 Beispielsweise `Bei welcher Temparatur kocht Wasser?` oder `Welche Programmiersprache ist die beste?`.
 
 ## Schritt für Schritt Anleitung
+Klicken Sie auf folgenden Link und wählen Sie anschließend am oberen rechten Rand "Fork" aus: [REPLIT](https://replit.com/@Domsaurus/Taschenrechner-Challenge)
+
 In der vorbereiteten Datei `taschenrechner.py` finden Sie einige vordefinierte Funktionen. Sie sollen diese Funktionen fertig implementieren 
 und in der `main()` Funktion zu einem sinnvollen Programm zusammenfügen. Ich empfehle Ihnen, zuerst die einzelnen Funktionen zu programmieren 
 und danach die `main()` - dies ist jedoch völlig Ihnen überlassen. 
